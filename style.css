@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     font-size: 18px;
-    min-width: 130px;
+    min-width: 200px;
   }
 
   ul {
@@ -24,7 +24,6 @@ body {
     background-color: #1F2937;
     padding: 10px 100px 100px 100px;
     height: 500px;
-    min-width: 500px;
   }
 
 
@@ -67,7 +66,7 @@ body {
   .header-image {
     max-width: 350px;
     max-height: 350px;
-    
+    min-width: 100px;
     overflow: hidden;
   }
 
@@ -110,4 +109,5 @@ body {
     background-color: #1F2937;
     color: #E5E7EB;
     font-size: 16px;
+    margin: 30px 0 0 0;
   }
