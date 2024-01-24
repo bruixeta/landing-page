@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-size: 18px;
   }
 
   ul {
@@ -60,4 +61,10 @@ body {
 
   .quote-author {
     font-weight: 500;
+  }
+
+  .footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 16px;
   }
